@@ -1,0 +1,6 @@
+doskey v="C:\Users\[user]\Desktop\nvim-win64\bin\nvim.exe" -u C:\Users\pt533\Desktop\nvim-win64\bin\lua\init.lua && doskey git="C:\Users\[user]\AppData\Local\Programs\Git\bin\git.exe" $* && doskey diff="C:\Users\[user]\AppData\Local\Programs\Git\usr\bin\diff.exe" $* && doskey npm="C:\Users\[user]\Desktop\portable_binaries\node-v22.14.0-win-x64\npm.cmd" $* && doskey python="C:\Users\[user]\Desktop\portable_binaries\python-3.10.10-embed-amd64\python.exe" $* && doskey pip="C:\Users\[user]\Desktop\portable_binaries\python-3.10.10-embed-amd64\Scripts\pip.exe" $* && doskey rg="C:\Users\[user]\Desktop\portable_binaries\ripgrep-14.1.1-x86_64-pc-windows-msvc\rg.exe"
+
+
+
+Git Clone Example:
+git clone --depth 1 http://github.com/[username]/[repo] "C:/Users/[user]/Desktop/[filename]"
